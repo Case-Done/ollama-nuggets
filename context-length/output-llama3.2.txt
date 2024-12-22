@@ -1,0 +1,12 @@
+Here are the bullet points summarizing the conversation between Andre Karpalathi and the Lex Friedman podcast:
+
+* Physics may have exploits that need to be found, and researchers should try to find them in a crazy quantum mechanical system.
+* Synthetic intelligences will eventually uncover the puzzle of the universe and solve it.
+* Andre discussed his experience as the director of AI at Tesla and his thoughts on machine learning, neuroscience, and the future of artificial intelligence.
+* He talked about the Transformer architecture and how it has revolutionized natural language processing.
+* The conversation also touched upon topics like:
+	+ Imbalance in research funding
+	+ The importance of human values and ethics in AI development
+	+ The role of simulation in AI development
+	+ The potential for AI to solve complex problems like aging and disease
+	+ The need for more research on the intersection of neuroscience and AI
