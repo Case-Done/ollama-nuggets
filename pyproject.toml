@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "ollama-nuggets"
+version = "0.1.0"
+description = ""
+authors = ["Pisek <psk.light@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain = "^0.3.13"
+langchain-core = "^0.3.28"
+tiktoken = "^0.8.0"
+langchain-ollama = "^0.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
