@@ -12,15 +12,7 @@ This repository contains experiments exploring Ollama's behavior with different 
 - Explored the relationship between prediction length and output completeness
 - Analyzed token counts and model behavior under different configurations
 
-### Experiments Include:
-
-1. Basic context handling (default 2048 tokens)
-2. Extended context (3072 tokens = 1024*3)
-3. Various prediction lengths (128, 256, 512, 1024, -1, -2)
-4. Comparison with GPT-4o-mini outputs
-
-### Key Takeaways
-
-- Longer context doesn't always mean better results
-- Performance trade-offs with increased context length
-- Optimal prediction length varies by use case
+## Setup
+```shell
+pip install -r requirements.txt
+```
